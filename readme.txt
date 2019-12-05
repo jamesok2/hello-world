@@ -76,3 +76,5 @@ R - enters Replace mode until <ESC> is pressed.
 ctrl-w to jump from one window to another
 
 type a command :e and press ctrl+D to list all the command name starts with :e and press tab to complete the command
+
+This is line for testing git
